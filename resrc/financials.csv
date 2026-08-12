@@ -1,0 +1,21 @@
+Company Name,Ticker,Stock Price,Subsidiaries,Profit,Loss,Gross Margin,Projected Financial
+Apple Inc.,AAPL,187.32,"Apple Services, Beats Electronics, Claris",96.45,-12.30,43.2%,112.8B
+Microsoft Corporation,MSFT,402.15,"LinkedIn, GitHub, Mojang",72.36,-8.45,68.5%,89.3B
+Amazon.com Inc.,AMZN,155.34,"Whole Foods, Ring, Zappos",62.87,-15.23,41.2%,76.5B
+Alphabet Inc.,GOOGL,142.56,"YouTube, Waymo, Fitbit",58.92,-11.78,55.8%,67.2B
+Meta Platforms Inc.,META,474.32,"Instagram, WhatsApp, Oculus",45.67,-9.34,80.2%,52.1B
+Tesla Inc.,TSLA,193.57,"SolarCity, Maxwell Technologies",38.29,-14.56,25.6%,45.8B
+NVIDIA Corporation,NVDA,726.13,"Mellanox, Arm",35.78,-7.89,64.3%,42.9B
+Johnson & Johnson,JNJ,158.89,"Actelion, Synthes, Mentor",32.45,-6.78,71.5%,38.6B
+Procter & Gamble,PG,156.78,"Gillette, Braun, SK-II",28.92,-5.67,48.9%,34.7B
+JPMorgan Chase,JPM,183.27,"Chase Bank, Bear Stearns",27.56,-8.90,62.4%,31.2B
+Walmart Inc.,WMT,59.23,"Sam's Club, Flipkart, Jet.com",25.78,-7.45,24.8%,29.5B
+Coca-Cola Company,KO,60.45,"Minute Maid, Costa Coffee",22.34,-4.56,60.7%,26.8B
+Disney,DIS,111.67,"Marvel, Pixar, Lucasfilm",20.89,-6.23,42.3%,24.1B
+Netflix Inc.,NFLX,586.34,"Millarworld, ABQ Studios",18.67,-5.89,39.6%,22.4B
+Intel Corporation,INTC,42.78,"Mobileye, Movidius",16.45,-7.23,58.2%,19.8B
+Adobe Inc.,ADBE,485.56,"Figma, Magento, Marketo",15.78,-4.12,85.6%,18.9B
+Salesforce,CRM,273.45,"Slack, Tableau, MuleSoft",14.56,-3.89,75.3%,17.2B
+PayPal Holdings,PYPL,62.34,"Venmo, Xoom, iZettle",12.89,-4.56,45.8%,15.4B
+Advanced Micro Devices,AMD,176.89,"Xilinx, ATI",11.23,-5.67,48.9%,13.7B
+Cisco Systems,CSCO,49.67,"WebEx, AppDynamics",10.45,-3.45,63.2%,12.5B
