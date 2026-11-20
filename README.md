@@ -240,11 +240,6 @@ Flowforge/
 ├── metrics/
 ├── packages/
 ├── resrc/
-│   ├── Screenshot 2026-04-05 135630.png
-│   ├── Screenshot 2026-04-05 135722.png
-│   ├── Screenshot 2026-04-05 135737.png
-│   ├── Screenshot 2026-04-05 135817.png
-│   └── Screenshot 2026-04-05 135850.png
 ├── package.json
 ├── pnpm-lock.yaml
 └── turbo.json
