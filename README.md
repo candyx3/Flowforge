@@ -3,7 +3,7 @@
 ### Build. Connect. Orchestrate. Automate.
 
 <p align="center">
-  <img src="resrc/Screenshot%202026-04-05%20135630.png" alt="Flowforge Dashboard" width="100%">
+  <img src="resrc/Flowforge AI Workflow Orchestration Banner.png" alt="" width="100%">
 </p>
 
 <p align="center">
